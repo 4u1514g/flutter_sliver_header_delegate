@@ -74,13 +74,13 @@ class FlexibleHeaderDelegate extends SliverPersistentHeaderDelegate {
               ],
             ),
           ),
-          AppBar(
-            backgroundColor: Colors.transparent,
-            actions: actions,
-            leading: leading,
-            title: title,
-            elevation: 0,
-          ),
+          // AppBar(
+          //   backgroundColor: Colors.transparent,
+          //   actions: actions,
+          //   leading: leading,
+          //   title: title,
+          //   elevation: 0,
+          // ),
         ],
       ),
     );
